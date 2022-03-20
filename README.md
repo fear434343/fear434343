@@ -1,4 +1,4 @@
 _G.kick = true
-while _g.kick do
-wait()game:getservice("ReplicatedStorage").Remote.DoubleReg:FireServer()
+while _G.kick do
+wait()game:GetService("ReplicatedStorage").Remotes.DoubleReg:FireServer()
 end
